@@ -4,4 +4,5 @@
 
 > Formerly `pca-from-scratch`
 
-Collection of Jupyter notebooks with implementations of different ML concepts I become temporarily obsessed with.
+Collection of Jupyter notebooks and Python scripts with implementations
+of different (not necessarily) ML concepts I become temporarily obsessed with.
